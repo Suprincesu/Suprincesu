@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=suprincesu&label=Profile%20views&color=0e75b6&style=flat" alt="suprincesu" /> </p>
 
-- 👨‍💻 All of my projects are available at [suprinceshakya.com.np](suprinceshakya.com.np)
+- 👨‍💻 All of my projects are available at [suprinceshakya.com.np](https://suprinceshakya.com.np)
 
 - 💬 Ask me about **Node, React and Vue**
 
